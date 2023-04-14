@@ -1,0 +1,4 @@
+ejecutamos git status, aparece que no hay comentarios aun
+luego de modificar los archivos de texto de cada repositorio, ejecutamos git status
+modifique el archivo datosp.txt y luego ejecute git status
+
